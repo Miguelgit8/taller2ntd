@@ -6752,6 +6752,10 @@ textarea.form-control-lg {
   display: table-row !important;
 }
 
+.card-text{
+  text-align:start;
+}
+
 .d-table-cell {
   display: table-cell !important;
 }
